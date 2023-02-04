@@ -1,0 +1,28 @@
+#equation{
+    border-style: solid;
+    width: 595px;
+    height: 150px
+}
+
+.row{
+    display: flex;
+}
+
+#keypad{
+    display: flex;
+}
+
+button{
+    height: 150px;
+    width: 150px;
+    font-size: 50px;
+}
+
+.long{
+    width: 300px;
+}
+
+#operations{
+    display: flex;
+    flex-direction: column;
+}
