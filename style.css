@@ -1,7 +1,10 @@
 #equation{
     border-style: solid;
     width: 595px;
-    height: 150px
+    height: 175px;
+    font-size: 75px;
+    text-align: right;
+    word-wrap: break-word;
 }
 
 .row{
