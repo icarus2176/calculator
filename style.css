@@ -9,6 +9,11 @@
 
 .row{
     display: flex;
+    width: 450px;
+}
+.longRow{
+    display: flex;
+    width: 600px;
 }
 
 #keypad{
